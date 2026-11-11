@@ -1,10 +1,10 @@
 
-<!DOCTYPE html>
+<!--DOCTYPE html-->
 <html>
 
 
-<head>
-<title>Human GGT In Spain</title>
+<!--<head>
+<title>Human GGT In Spain</title>-->
 <style>
 
 @font-face {
@@ -241,7 +241,7 @@ May 2020 edition of the <a href="https://www.lms.ac.uk/publications/lms-newslett
 </a>
 </div>  
 
-</body>
+<!--</body>-->
 
 
 
