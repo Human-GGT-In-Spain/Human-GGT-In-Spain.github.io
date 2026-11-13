@@ -1,10 +1,10 @@
 
-<!--DOCTYPE html-->
+<!-DOCTYPE html->
 <html>
 
 
-<!--<head>
-<title>Human GGT In Spain</title>-->
+<head>
+<title>Human GGT In Spain</title>
 <style>
 
 @font-face {
@@ -182,7 +182,34 @@ var val = a = Math.floor((Math.random() * 4) + 1),
 
 <a id="about"><br></a>
 <div class="padd">
-<p class="well-spaced"> Human GGT in Spain is an organization which aims to support geometric group theorists in Spain by organizing and promoting AI-free conferences and workshops. We do not impose any restrictions on how our members may or may not use LLMs in their day-to-day research; we ask only that all members adhere to the AI-free principles of designated events and respect the decisions of any of their collaborators, postdocs, or students who choose not to limit their use of LLMs. </p>
+<p class="well-spaced"> Human Geometric Group Theory in Spain aims to preserve spaces for AI-free mathematics. 
+<br>
+Mathematics is traditionally a social endeavor. For mathematicians who wish to limit AI use in their research, the social aspects of our field are threatened by a lack of clear and reasonable norms regarding AI use in events and collaborations. We aim to combat this issue and preserve spaces for AI-free mathematics in two ways.
+<br>
+We organize and support conferences, workshops, and other research events which limit LLM-use during the event. 
+Our members form a community of geometric group theorists who have agreed to respect the decisions of their colleagues who do not wish to use LLMs in their research. 
+<br><br>
+<h3>Events</h3>
+<br>
+Our events are open to any mathematician who is interested in the topic and agrees to the AI use conditions of the event. These conditions will be outlined clearly in each case. Announcements will be sent to our mailing list and posted on this website.
+<br>
+We encourage other conference or workshop organizers to adopt an AI-free policy. If you are organizing such an event and would like us to advertise it, please send us an email.
+<br><br>
+<h3>Membership</h3>
+
+We do not impose any restrictions on whether our members use AI in their own work. We only ask that our members agree to the following.
+<ol>
+	<li>I will only use AI on joint projects with the knowledge and consent of my collaborators.</li>
+	<li>I will not use ideas shared with me by my colleagues to prompt an LLM without their consent.</li>
+	<li>I will not pressure my colleagues, particularly my postdocs and/or students, to use AI if they do not wish to.</li>
+</ol>
+
+If you would like to become a member, you can sign up <a href="https://docs.google.com/forms/d/e/1FAIpQLSf0PHoJvQ7yLb3qAEKCtvQnrny0n04zUszjm1ksyFhgvbHOzw/viewform?usp=header">here</a>. If you provide an email, we will add you to our mailing list. You can choose whether you would like to add your name to our publicly available member list.
+
+<h3>Contact</h3>
+
+Email us at human.ggt.in.spain@gmail.com.
+ </p>
 <br>
 <!--<p class="well-spaced">I am interested in the interactions between group theory and topology.  Most recently, I have been interested in profinite rigidity of groups, Kähler groups, \(\ell^2\)-invariants, torsion homology growth, and the isomorphism conjectures in \(K\)-theory.  I have also been interested in lattices in locally compact groups, quasi-isometries of pairs, (bi)automatic groups, generalisations of hyperbolicity, finiteness properties, and the representation theory of finite groups.  My research has appeared in <a href="https://www.quantamagazine.org/mathematicians-marvel-at-crazy-cuts-through-four-dimensions-20240422/">Quanta Magazine</a> and
 	<a href="https://www.epsiloon.com/tous-les-numeros/hs14/">Epsiloon</a>.  </p>
