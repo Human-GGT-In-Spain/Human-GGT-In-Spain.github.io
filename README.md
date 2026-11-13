@@ -2,7 +2,7 @@
 <html>
 	
 <head>
-<title>home</title>
+<title>Human GGT in Spain</title>
 <style>
 
 @font-face {
@@ -180,17 +180,14 @@ var val = a = Math.floor((Math.random() * 4) + 1),
 
 <a id="about"><br></a>
 <div class="padd">
-<p class="well-spaced"> Human Geometric Group Theory in Spain aims to preserve spaces for AI-free mathematics. 
+<p class="well-spaced"> 
 <br>
+Human Geometric Group Theory in Spain aims to preserve spaces for AI-free mathematics. 
+<br><br>
 Mathematics is traditionally a social endeavor. For mathematicians who wish to limit AI use in their research, the social aspects of our field are threatened by a lack of clear and reasonable norms regarding AI use in events and collaborations. We aim to combat this issue and preserve spaces for AI-free mathematics in two ways.
-<br>
+<br><br>
 We organize and support conferences, workshops, and other research events which limit LLM-use during the event. 
 Our members form a community of geometric group theorists who have agreed to respect the decisions of their colleagues who do not wish to use LLMs in their research. 
-<br><br>
-<h3>Events</h3>
-Our events are open to any mathematician who is interested in the topic and agrees to the AI use conditions of the event. These conditions will be outlined clearly in each case. Announcements will be sent to our mailing list and posted on this website.
-<br>
-We encourage other conference or workshop organizers to adopt an AI-free policy. If you are organizing such an event and would like us to advertise it, please send us an email.
 <br><br>
 <h3>Membership</h3>
 We do not impose any restrictions on whether our members use AI in their own work. We only ask that our members agree to the following.
