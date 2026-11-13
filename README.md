@@ -169,13 +169,12 @@ var val = a = Math.floor((Math.random() * 4) + 1),
 <!--</div>
 </div>-->
 
-
 <ul id="top-menu">
-	<li><a href="#about">Home</a></li>
+	<li><a href="./">Home</a></li>
 	<li><a href="events.html">Events</a></li>
 	<li><a href="members.html">Members</a></li>
 	<li><a href="contact.html">Contact</a></li>
-	<!--<li><a href="activities.html">Activities</a></li>-->
+	<!--<li><a href="activities.html">Recent activities</a></li>-->
 </ul>
 
 <a id="about"><br></a>
@@ -186,15 +185,17 @@ Human Geometric Group Theory in Spain aims to preserve spaces for AI-free mathem
 <br><br>
 Mathematics is traditionally a social endeavor. For mathematicians who wish to limit AI use in their research, the social aspects of our field are threatened by a lack of clear and reasonable norms regarding AI use in events and collaborations. We aim to combat this issue and preserve spaces for AI-free mathematics in two ways.
 <br><br>
-We organize and support conferences, workshops, and other research events which limit LLM-use during the event. 
-Our members form a community of geometric group theorists who have agreed to respect the decisions of their colleagues who do not wish to use LLMs in their research. 
+	<ol>
+		<li>We organize and support conferences, workshops, and other research events which limit LLM-use during the event.</li>
+		<li>Our members form a community of geometric group theorists who have agreed to respect the decisions of their colleagues who do not wish to use LLMs in their research. </li>
+	</ol> 
 <br><br>
 We do not impose any restrictions on whether our members use AI in their own work. We only ask that our members agree to the following.
-<ol>
+<ul>
 	<li>I will only use AI on joint projects with the knowledge and consent of my collaborators.</li>
 	<li>I will not use ideas shared with me by my colleagues to prompt an LLM without their consent.</li>
 	<li>I will not pressure my colleagues, particularly my postdocs and/or students, to use AI if they do not wish to.</li>
-</ol>
+</ul>
 If you would like to become a member, you can sign up <a href="https://docs.google.com/forms/d/e/1FAIpQLSf0PHoJvQ7yLb3qAEKCtvQnrny0n04zUszjm1ksyFhgvbHOzw/viewform?usp=header">here</a>. If you provide an email, we will add you to our mailing list. You can choose whether you would like to add your name to our publicly available member list.
  </p>
 <br>
