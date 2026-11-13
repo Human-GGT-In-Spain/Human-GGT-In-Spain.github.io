@@ -149,8 +149,8 @@ a:hover {
 </head>
 <body>
 
-<!--<div class="centre">
-<div class="clearfix" id="imageDiv">-->
+<div class="centre">
+<!--<div class="clearfix" id="imageDiv">-->
 
 
 <!--<script type="text/javascript">
@@ -172,7 +172,7 @@ var val = a = Math.floor((Math.random() * 4) + 1),
 
 <ul id="top-menu">
 	<li><a href="#about">Home</a></li>
-	<!--<li><a href="research.html">Research</a></li>-->
+	<li><a href="events.html">Events</a></li>
 	<!--<li><a href="teaching.html">Teaching</a></li>-->
 	<!--<li><a href="contact.html">Contact</a></li>-->
 	<!--<li><a href="activities.html">Activities</a></li>-->
