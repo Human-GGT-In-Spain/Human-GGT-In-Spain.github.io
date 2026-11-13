@@ -199,6 +199,7 @@ We do not impose any restrictions on whether our members use AI in their own wor
 If you would like to become a member, you can sign up <a href="https://docs.google.com/forms/d/e/1FAIpQLSf0PHoJvQ7yLb3qAEKCtvQnrny0n04zUszjm1ksyFhgvbHOzw/viewform?usp=header">here</a>. If you provide an email, we will add you to our mailing list. You can choose whether you would like to add your name to our publicly available member list.
  </p>
 <br>
+
 <!--<p class="well-spaced">I am interested in the interactions between group theory and topology.  Most recently, I have been interested in profinite rigidity of groups, Kähler groups, \(\ell^2\)-invariants, torsion homology growth, and the isomorphism conjectures in \(K\)-theory.  I have also been interested in lattices in locally compact groups, quasi-isometries of pairs, (bi)automatic groups, generalisations of hyperbolicity, finiteness properties, and the representation theory of finite groups.  My research has appeared in <a href="https://www.quantamagazine.org/mathematicians-marvel-at-crazy-cuts-through-four-dimensions-20240422/">Quanta Magazine</a> and
 	<a href="https://www.epsiloon.com/tous-les-numeros/hs14/">Epsiloon</a>.  </p>
 <br><br>
